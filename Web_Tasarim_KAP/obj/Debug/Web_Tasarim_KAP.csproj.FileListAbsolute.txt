@@ -1,0 +1,16 @@
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\bin\Debug\Web_Tasarim_KAP.exe.config
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\bin\Debug\Web_Tasarim_KAP.exe
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\bin\Debug\Web_Tasarim_KAP.pdb
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.csproj.AssemblyReference.cache
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Form1.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Properties.Resources.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.csproj.GenerateResource.cache
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.csproj.CoreCompileInputs.cache
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.exe
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.pdb
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Frm_0_KM.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Frm_Fiat.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Frm_AUDI.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Frm_Satis.resources
+C:\Users\BERAT BAKAN\source\repos\Web_Tasarim_KAP\Web_Tasarim_KAP\obj\Debug\Web_Tasarim_KAP.Frm_Kart2.resources
